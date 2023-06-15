@@ -1,37 +1,3 @@
-###### Technologies used in this Website
-
-1> HTML
-2> CSS
-3> JAVASCRIPT
-4> REACT JS
-5> NODE JS
-6> EXPRESS
-
-########## Important Links ###########
-
-Live Website Link: https://jk-cooking.netlify.app
-Git Hub Code Link:
-
-########### How To Use This Website In Your PC...##############
-
-1> you must have NODEJS install in your machine
-
-2> open the folder (deliciouss) in your code editor such as VSCODE
-
-3> now open the terminal of your code editor and make sure you are in the deliciouss folder .
-
-4> now run the command npm install this will install all the dependies
-
-5> after we successfully install all the dependies now run the command npm start this will start the website in your pc on localhost3000
-
-### about this website
-
-jk-delicious is a food recipie website that will help you to cook delicious food items and improve your cooking skills. The main goal of our website is to help the people who are learning cooking. We provide you the recipies from all over the world such as Indian, Japanese, American, Italian, Chinese food recipies and many more. This website is developed my Jitender and Kartik. The measured ingredients in a recipe not only produce consistent food but control your food cost and profit. Recipes reduce waste because a cook is prepping exactly what is needed to produce the menu items. Recipes provide portion control which is a major factor in food cost control and profit.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
