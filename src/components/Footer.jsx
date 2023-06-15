@@ -41,7 +41,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://instagram.com/KartiKrajput_03?igshid=YmMyMTA2M2Y="
+                  href="https://instagram.com/jatinderchoudhary07?igshid=YmMyMTA2M2Y="
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -90,7 +90,7 @@ const Footer = () => {
           </PopularLinks>
         </FooterDiv>
       </Container>
-      <Credit>Copyright © 2023. Created by ❤️Jitender & Kartik </Credit>
+      <Credit>Copyright © 2023. Created by Jitender </Credit>
     </>
   );
 };

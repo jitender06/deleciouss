@@ -16,12 +16,12 @@ const About = () => {
             world such as
             <strong> Indian, Japanese, American, Italian, Chinese</strong> food
             recipies and many more. This website is developed my{" "}
-            <strong>Jitender</strong> and <strong>Kartik</strong>. The measured
-            ingredients in a recipe not only produce consistent food but control
-            your food <strong>cost</strong> and <strong>profit</strong>. Recipes
-            reduce waste because a cook is prepping exactly what is needed to
-            produce the menu items. Recipes provide portion control which is a
-            major factor in food cost control and profit.
+            <strong>Jitender</strong>. The measured ingredients in a recipe not
+            only produce consistent food but control your food{" "}
+            <strong>cost</strong> and <strong>profit</strong>. Recipes reduce
+            waste because a cook is prepping exactly what is needed to produce
+            the menu items. Recipes provide portion control which is a major
+            factor in food cost control and profit.
           </p>
         </div>
       </AboutContainer>
